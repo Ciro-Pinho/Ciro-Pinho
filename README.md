@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, eu sou o Ciro Pinho,<br><br>🎓 Estudante de Análise e Desenvolvimento de Sistemas (2025–2027)<br>- Aspirante a Desenvolvedor e Analista de Dados<br>- Interessado em Engenharia de Software, Cloud Computing e Ciência de Dados<br><br>🎯 Em transição de carreira para a área de Tecnologia da Informação<br>	• Atualmente aprendendo Python, Git/GitHub e Banco de Dados<br>	• Buscando meu primeiro estágio em TI<br>	• Aberto a conexões e colaborações em projetos</p>
+<p align="left">Olá, eu sou o Ciro Pinho<br><br>🎓 Estudante de Análise e Desenvolvimento de Sistemas (2025–2027)<br>- Aspirante a Desenvolvedor e Analista de Dados<br>- Interessado em Engenharia de Software, Cloud Computing e Ciência de Dados<br><br>🎯 Em transição de carreira para a área de Tecnologia da Informação<br>	• Atualmente aprendendo Python, Git/GitHub e Banco de Dados<br>	• Buscando meu primeiro estágio em TI<br>	• Aberto a conexões e colaborações em projetos</p>
 
 ###
 
